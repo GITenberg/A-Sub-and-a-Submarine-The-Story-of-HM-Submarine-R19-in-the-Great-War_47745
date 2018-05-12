@@ -1,4 +1,5 @@
 _repo: A-Sub-and-a-Submarine-The-Story-of-HM-Submarine-R19-in-the-Great-War_47745
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hodgson, Edward S.
@@ -7,6 +8,9 @@ contributor:
     - Hodgson, E.S.
     gutenberg_agent_id: '9707'
     url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: archival
+  image_path: 47745-h/images/cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47745#A-Sub-and-a-Submarine-The-Story-of-HM-Submarine-R19-in-the-Great-War
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:

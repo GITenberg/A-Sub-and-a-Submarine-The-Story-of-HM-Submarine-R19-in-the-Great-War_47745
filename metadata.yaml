@@ -30,6 +30,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A Sub and a Submarine
 
   The Story of H.M. Submarine R19 in the Great War'
